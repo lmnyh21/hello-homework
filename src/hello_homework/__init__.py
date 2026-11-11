@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from hello-homework!")
+"""打招呼專案套件。"""
